@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".otp_page"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="#20FFEB3B">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint=" Phone "
+        android:padding="15dp"
+        android:id="@+id/ETphone"
+        android:textStyle="bold"
+        android:textSize="30dp"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Get otp"
+        android:padding="10dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:id="@+id/get_otpbtn"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:hint="Enter otp"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:id="@+id/ETenterotp"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:text="Register"
+        android:id="@+id/registerbtn"/>
+
+
+
+
+
+
+
+
+
+
+
+
+</LinearLayout>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "984754343218",
+    "project_id": "raj-mahto",
+    "storage_bucket": "raj-mahto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984754343218:android:b7a96b71a4c8a215269b2b",
+        "android_client_info": {
+          "package_name": "com.example.smartshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1YRZgvgIRDTLbZFlAuBstEbZtoJ0R3hc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
